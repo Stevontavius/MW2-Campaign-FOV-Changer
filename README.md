@@ -6,6 +6,8 @@ To change your FOV with this FOV Changer,
 - Run `mw2fov.exe`
 - Type your desired FOV
 
+[DOWNLOAD HERE](https://github.com/Stevontavius/MW2-Campaign-FOV-Changer/releases)
+
 ##### Here's a quick demonstration video to show you how the FOV changer works
 
 
